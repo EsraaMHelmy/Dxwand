@@ -1,0 +1,20 @@
+<svg width="660" height="416" viewBox="0 0 660 416" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.5">
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="660" height="416">
+<rect y="0.5" width="660" height="415.083" rx="5" fill="#1D9DF4"/>
+</mask>
+<g mask="url(#mask0)">
+<path d="M-1.03809 268.538C20.4329 254.019 70.9698 225.674 101.35 228.446C139.324 231.911 179.222 262.104 298.915 262.104C418.607 262.104 441.2 171.031 507.055 165.092C572.91 159.152 650.782 151.728 662.799 125" stroke="white" stroke-width="2"/>
+<path d="M101.268 228.176C70.8884 225.404 18.5501 254.94 -2.9209 269.459V445.664H660.917V125.921C648.899 152.649 571.027 160.073 505.172 166.013C439.317 171.952 416.716 264.454 297.032 263.025C176.502 261.586 139.243 231.641 101.268 228.176Z" fill="url(#paint0_linear)"/>
+<circle cx="87.6568" cy="227.952" r="7.90923" fill="#1D9DF4" stroke="white" stroke-width="2"/>
+<circle cx="410.37" cy="225.972" r="7.90923" fill="#1D9DF4" stroke="white" stroke-width="2"/>
+<circle cx="514.238" cy="163.854" r="7.90923" fill="#1D9DF4" stroke="white" stroke-width="2"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="328.998" y1="125.921" x2="328.998" y2="445.664" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="white" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
