@@ -6,63 +6,50 @@
 <style type="text/css">
    body {
    background-image: url("images/white.png"); 
-   background-color:#EAFAF1;
+   background-color:#f0f9ff;
    }
 </style>
 <!--==============================================================-->
 <section>
-	
-	<div>
-		
-			<!--============title==========================-->
+   <div>
+   <!--============title==========================-->
+   <div>
+      <p class= "title_classicStep3">Awesome! Meet your new bot!</p>
+   </div>
+   <!--=======================================-->
+   <div class="content_classicStep4">
+      <div class="stepss">
+         <p class="wow bounceIn" data-wow-delay="600ms" data-wow-duration="1.8s"><span>1</span></p>
+         <p class="wow bounceIn" data-wow-delay="700ms" data-wow-duration="1.8s"><span>2</span></p>
+         <p class="wow bounceIn" data-wow-delay="800ms" data-wow-duration="1.8s"><span>3</span></p>
+         <p class="active_step wow bounceIn" data-wow-delay="900ms" data-wow-duration="1.8s"><span>4</span></p>
+      </div>
+      <p class="go wow bounceIn" data-wow-delay="1000ms" data-wow-duration="1.8s"><span>Go live!</span></p>
+      <div class="clearfix"></div>
+      <div class="bot_status3">
+         <p class= "wow bounceIn" data-wow-delay="800ms" data-wow-duration="1.8s">Almost done!<br> Customization at 80%</p>
+      </div>
+      <img src="images/BOT_80_percent.png" class="wow tada" data-wow-delay="800ms" data-wow-duration="1.8s">
+      <p class="subtitle_classicStep3 wow fadeInUp" data-wow-delay="800ms" data-wow-duration="1.8s">Final step! Let's talk about<br>your services and products.</p>
+      
+         <form action="Golive.php" method="post">
+            <p  class="imports">If you have products listed on Facebook or Shopify, you can<br>simply link your Bot to your Store or Page to import them directly:</p>
+            
+            <div class="social_logos">
+               <i class="fab fa-facebook-square wow fadeIn" data-wow-delay="800ms" data-wow-duration="1.8s"></i> 
+               <p class="face_cap"> Import from<br> Facebook </p>
 
-		<div>
-			<p class= "title_classicStep3">Awesome! Meet your new bot!</p>
-		</div>
-
-				<!--=======================================-->
-		<div class="content_classicStep4">
-			<div class="stepss">
-            <p class="wow bounceIn" data-wow-delay="600ms" data-wow-duration="1.8s"><span>1</span></p>
-            <p class="wow bounceIn" data-wow-delay="700ms" data-wow-duration="1.8s"><span>2</span></p>
-            <p class="wow bounceIn" data-wow-delay="800ms" data-wow-duration="1.8s"><span>3</span></p>
-            <p class="active_step wow bounceIn" data-wow-delay="900ms" data-wow-duration="1.8s"><span>4</span></p>
-         </div>
-         	
-         	<p class="go wow bounceIn" data-wow-delay="1000ms" data-wow-duration="1.8s"><span>Go live!</span></p>
-
-         <div class="clearfix"></div>
-         
-         <div class="bot_status3">
-					<p class= "wow bounceIn" data-wow-delay="800ms" data-wow-duration="1.8s">Almost done!<br> Customization at 80%</p>
-			</div>
-
-				    <img src="images/BOT_80_percent.png" class="wow tada" data-wow-delay="800ms" data-wow-duration="1.8s">
-				    <p class="subtitle_classicStep3 wow fadeInUp" data-wow-delay="800ms" data-wow-duration="1.8s">Final step! Let's talk about<br>your services and products.</p>
-
-			<div>
-				<form>
-					<p  class="imports">If you have products listed on Facebook or Shopify, you can<br>simply link your Bot to your Store or Page to import them directly:</p>
-
-					
-					<div class="social_logos">
-						<i class="fab fa-facebook-square wow fadeIn" data-wow-delay="800ms" data-wow-duration="1.8s"></i><!-- 
-						<caption> Import from Facebook </caption> -->
-					 <img src="images/Shopify.png" class="wow fadeIn" data-wow-delay="800ms" data-wow-duration="1.8s">
-<!-- 
-						<caption> Import from shopify </caption> -->
-					</div>
-					<p class="examples_temp">Or you can easily upload all your product/services using<br> a template with examples:</p>
-
-					<a href="#" class="temp">Use template</a>
-				</form>
-				
-			</div>	    
- 
-		</div>			
-
-	</div>
-
+               <img src="images/Shopify.png" class="wow fadeIn" data-wow-delay="800ms" data-wow-duration="1.8s">
+               <p class="shop_cap"> Import from<br> shopify </p>
+            </div>
+            <p class="link_help">We can also help you get all the products<br>linked to your Bot.</p>
+            <p class="cost">It coasts $4 / hour to have someone from our team help you<br> set up this final step. Usually it takes around 3 hours to get<br> this done.</p>
+            <button class="publish"> Skip & Publish</button>
+         </form>
+   
+   </div>
+</div>
 </section>
+
 <!-- ======================== End Footer =============================== -->
 <?php include 'footer.php'; ?>

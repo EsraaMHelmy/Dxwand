@@ -6,7 +6,7 @@
 <style type="text/css">
    body {
    background-image: url("images/white.png"); 
-   background-color:#EAFAF1;
+   background-color:#f0f9ff;
    }
 </style>
 <!--==============================================================-->
@@ -37,10 +37,10 @@
             <form class="details" action="step2.php" method="post">
                <p class="name_business wow fadeInUp" data-wow-delay="800ms" data-wow-duration="1.8s">What's the name of the Business that i'll promote?</p>
                <input type="text" name="text" class="wow fadeInUp" data-wow-delay="800ms" data-wow-duration="1.8s">
-               <p class="business_location wow fadeInUp" data-wow-delay="900ms" data-wow-duration="1.8s">Where is the Business established?</p>
-               <input type="text" name="text" class="wow fadeInUp" data-wow-delay="900ms" data-wow-duration="1.8s">
-               <p class="b_currency wow fadeInUp" data-wow-delay="1000ms" data-wow-duration="1.8s">What currency are you using?</p>
-               <select class="currency wow fadeInUp" data-wow-delay="1000ms" data-wow-duration="1.8s">
+               <p class="business_location wow fadeInUp" data-wow-delay="820ms" data-wow-duration="1.8s">Where is the Business established?</p>
+               <input type="text" name="text" class="wow fadeInUp" data-wow-delay="820ms" data-wow-duration="1.8s">
+               <p class="b_currency wow fadeInUp" data-wow-delay="820ms" data-wow-duration="1.8s">What currency are you using?</p>
+               <select class="currency wow fadeInUp" data-wow-delay="820ms" data-wow-duration="1.8s">
                   <option value ="">USD</option>
                   <option value ="">EUR</option>
                   <option value ="">EGP</option>

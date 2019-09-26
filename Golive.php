@@ -6,7 +6,7 @@
 <style type="text/css">
    body {
    background-image: url("images/white.png"); 
-   background-color:#EAFAF1;
+   background-color:#f0f9ff;
    }
 </style>
 <!--==============================================================-->

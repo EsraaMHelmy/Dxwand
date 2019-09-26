@@ -6,7 +6,7 @@
 <style type="text/css">
    body {
    background-image: url("images/white.png"); 
-   background-color:#EAFAF1;
+   background-color:#f0f9ff;
    }
 </style>
 <!--==============================================================-->
@@ -29,7 +29,7 @@
 
          <div class="clearfix"></div>
          <div class="bot_status2">
-            <p class="wow bounceIn" data-wow-delay="800ms" data-wow-duration="1.8s">Well done!<br> Customization at 20%</p>
+            <p class="wow bounceIn" data-wow-delay="800ms" data-wow-duration="1.8s">Well done!<br> Customization at 40%</p>
          </div>
          <img src="images/BOT_40_percent.png" class="wow tada" data-wow-delay="800ms" data-wow-duration="1.8s">
          <p class="subtitle_classicStep2 wow fadeInUp" data-wow-delay="800ms" data-wow-duration="1.8s">Tell me about language <br>and your page...</p>
@@ -44,7 +44,7 @@
                   <option value ="">Korean</option>
                </select>
                <p class="describe_buss wow fadeInUp" data-wow-delay="800ms" data-wow-duration="1.8s">How would you like me to describe the Business<br> to your new customers? </p>
-               <input type="text" name="" class="">
+               <textarea> </textarea>
                <button class= "next_step2">Next step</button> 
             </form>
          </div>

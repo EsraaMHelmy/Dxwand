@@ -7,7 +7,7 @@
 <style type="text/css">
    body {
    background-image: url("images/white.png"); 
-   background-color:#EAFAF1;
+   background-color:#f0f9ff;
    }
 </style>
 <!--==============================================================-->
@@ -35,7 +35,7 @@
 
          <div class="clearfix"></div>
 			<div class="bot_status3">
-					<p class= "wow bounceIn" data-wow-delay="800ms" data-wow-duration="1.8s">Great!<br> Customization at 20%</p>
+					<p class= "wow bounceIn" data-wow-delay="800ms" data-wow-duration="1.8s">Great!<br> Customization at 60%</p>
 			</div>
 
 				    <img src="images/BOT_60_percent.png" class="wow tada" data-wow-delay="800ms" data-wow-duration="1.8s">
